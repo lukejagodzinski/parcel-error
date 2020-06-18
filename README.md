@@ -9,17 +9,6 @@
       <td class="MuiTableCell-root MuiTableCell-body MuiTableCell-paddingNone">
         Lorem ipsum
       </td>
-      <td class="MuiTableCell-root MuiTableCell-body MuiTableCell-paddingNone">
-        Lorem ipsum
-      </td>
-    </tr>
-    <tr class="MuiTableRow-root">
-      <td class="MuiTableCell-root MuiTableCell-body MuiTableCell-paddingNone">
-        Lorem ipsum
-      </td>
-      <td class="MuiTableCell-root MuiTableCell-body MuiTableCell-paddingNone">
-        Lorem ipsum
-      </td>
     </tr>
   </tbody>
 </table>
@@ -32,11 +21,6 @@
 <table class="MuiTable-root" style="width: 200px;">
   <tbody class="MuiTableBody-root">
     <tr class="MuiTableRow-root">
-      <td class="MuiTableCell-root MuiTableCell-body">Lorem ipsum</td>
-      <td class="MuiTableCell-root MuiTableCell-body">Lorem ipsum</td>
-    </tr>
-    <tr class="MuiTableRow-root">
-      <td class="MuiTableCell-root MuiTableCell-body">Lorem ipsum</td>
       <td class="MuiTableCell-root MuiTableCell-body">Lorem ipsum</td>
     </tr>
   </tbody>

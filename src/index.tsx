@@ -11,11 +11,6 @@ function App() {
       <TableBody>
         <TableRow>
           <TableCell>Lorem ipsum</TableCell>
-          <TableCell>Lorem ipsum</TableCell>
-        </TableRow>
-        <TableRow>
-          <TableCell>Lorem ipsum</TableCell>
-          <TableCell>Lorem ipsum</TableCell>
         </TableRow>
       </TableBody>
     </Table>
